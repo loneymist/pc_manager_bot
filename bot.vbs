@@ -1,0 +1,1 @@
+WScript.CreateObject("WScript.Shell").Run "cmd /c ""py C:/PCMNGR/main.py""",0,true
